@@ -1,2 +1,0 @@
-# MathInput 
- author:lwglucky
